@@ -22,22 +22,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevKLS&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKLS&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevKLS&theme=radical"/>
-</p>
-
----
-
 ## 👩‍💻 Sobre mim
 
 🎓 Estudante de **Engenharia de Software**  
