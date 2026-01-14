@@ -1,16 +1,82 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou a Keila Lima</h1>
 
-<!--
-**DevKLS/DevKLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Estudante de Engenharia de Software</strong><br/>
+  Desenvolvedora em formação 🚀
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/keila-l-santana-499762324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_keila.kls/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevKLS&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKLS&layout=compact&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevKLS&theme=radical"/>
+</p>
+
+---
+
+## 👩‍💻 Sobre mim
+
+🎓 Estudante de **Engenharia de Software**  
+💡 Interesse em **Front-end, Back-end e projetos com impacto real**  
+📚 Atualmente estudando **JavaScript, HTML, CSS, Python e SQL**  
+🎯 Objetivo: conquistar minha **primeira vaga como desenvolvedora**  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,sql,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+📌 **PetCare+**  
+App para donos de pets com lembretes, histórico e organização  
+
+📌 **DevTalks**  
+Rede social para desenvolvedores com posts curtos, código e vídeo  
+
+📌 **Portfólio Pessoal**  
+Site moderno com modo claro/escuro e interatividade  
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/keila-l-santana-499762324  
+- 📸 Instagram: https://www.instagram.com/_keila.kls/  
+- ▶️ YouTube: https://www.youtube.com/@SEU_CANAL  
+- 📧 Email: SEUEMAIL@gmail.com  
+
+---
+
+<p align="center">
+✨ Em constante evolução ✨
+</p>
