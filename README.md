@@ -9,14 +9,8 @@
   <a href="https://www.linkedin.com/in/keila-l-santana-499762324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_keila.kls/" target="_blank">
+  <a href="https://www.instagram.com/santana_kls?igsh=N2F4YzQ3dGp6YmIw" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
