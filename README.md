@@ -55,10 +55,7 @@ Site moderno com modo claro/escuro e interatividade
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/keila-l-santana-499762324  
-- 📸 Instagram: https://www.instagram.com/_keila.kls/  
-- ▶️ YouTube: https://www.youtube.com/@SEU_CANAL  
-- 📧 Email: SEUEMAIL@gmail.com  
-
+- 📸 Instagram: https://www.instagram.com/SANTANA_KLS/  
 ---
 
 <p align="center">
