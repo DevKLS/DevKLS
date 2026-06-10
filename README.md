@@ -33,7 +33,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,sql,git,github,vscode,npm" />
 </p>
-##  Contato
+
+---
+
+## Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keila-l-santana-499762324">
