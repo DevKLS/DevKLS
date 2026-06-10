@@ -30,19 +30,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,sql,git,github,vscode,npm" />
 </p>
-
-
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keila-l-santana-499762324" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+  <a href="https://www.linkedin.com/in/keila-l-santana-499762324">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/SANTANA_KLS/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/SANTANA_KLS/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" />
   </a>
 </p>
 
