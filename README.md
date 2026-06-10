@@ -28,15 +28,21 @@
 ## Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,sql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,sql,git,github,vscode,npm" />
 </p>
 
 
-## Contato
+## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/keila-l-santana-499762324  
-- Instagram: https://www.instagram.com/SANTANA_KLS/  
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/keila-l-santana-499762324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/SANTANA_KLS/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
 ✨ Em constante evolução ✨
