@@ -16,12 +16,15 @@
 
 ---
 
-## 👩🏾‍💻​ Sobre mim
+## 👩🏾‍💻 Sobre mim
 
-🎓 Estudante de **Engenharia de Software**  
-💡 Interessada em desenvolvimento Full Stack e tecnologias para web.
-📚 Atualmente estudo desenvolvimento front-end com React, incluindo interfaces Mobile-First, componentes reutilizáveis e construção de aplicações web modernas com frameworks.
-🎯 Objetivo: Tornar-me uma desenvolvedora Full Stack qualificada, participando de projetos inovadores e contribuindo para o desenvolvimento de soluções tecnológicas eficientes. 
+🎓 Estudante de **Engenharia de Software**.
+
+💡 Tenho interesse em **desenvolvimento Full Stack**, desenvolvimento web e criação de soluções tecnológicas inovadoras.
+
+📚 Atualmente estudo **React**, **JavaScript**, interfaces **Mobile-First** e desenvolvimento de aplicações web modernas utilizando frameworks front-end.
+
+🎯 Busco evoluir constantemente minhas habilidades técnicas para atuar como **Desenvolvedora Full Stack**, contribuindo em projetos que gerem valor para usuários e empresas.
 
 ---
 
