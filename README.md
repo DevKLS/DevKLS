@@ -1,8 +1,8 @@
-<h1 align="center">👋 Olá, eu sou a Keila Lima</h1>
+<h1 align="center">👋🏾​ Olá, eu sou a Keila Lima</h1>
 
 <p align="center">
   <strong>Estudante de Engenharia de Software</strong><br/>
-  Desenvolvedora em formação 🚀
+  Desenvolvedora em formação
 </p>
 
 <p align="center">
@@ -16,40 +16,26 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## 👩🏾‍💻​ Sobre mim
 
 🎓 Estudante de **Engenharia de Software**  
-💡 Interesse em **Front-end, Back-end e projetos com impacto real**  
-📚 Atualmente estudando **JavaScript, HTML, CSS, Python e SQL**  
-🎯 Objetivo: conquistar minha **primeira vaga como desenvolvedora**  
+💡 Interessada em desenvolvimento Full Stack e tecnologias para web.
+📚 Atualmente estudo desenvolvimento front-end com React, incluindo interfaces Mobile-First, componentes reutilizáveis e construção de aplicações web modernas com frameworks.
+🎯 Objetivo: Tornar-me uma desenvolvedora Full Stack qualificada, participando de projetos inovadores e contribuindo para o desenvolvimento de soluções tecnológicas eficientes. 
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,sql,git,github,vscode" />
 </p>
 
----
 
-## 🚀 Projetos em Destaque
+## Contato
 
-📌 **PetCare+**  
-App para donos de pets com lembretes, histórico e organização  
-
-📌 **DevTalks**  
-Rede social para desenvolvedores com posts curtos, código e vídeo  
-
-📌 **Portfólio Pessoal**  
-Site moderno com modo claro/escuro e interatividade  
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: https://www.linkedin.com/in/keila-l-santana-499762324  
-- 📸 Instagram: https://www.instagram.com/SANTANA_KLS/  
+- LinkedIn: https://www.linkedin.com/in/keila-l-santana-499762324  
+- Instagram: https://www.instagram.com/SANTANA_KLS/  
 ---
 
 <p align="center">
